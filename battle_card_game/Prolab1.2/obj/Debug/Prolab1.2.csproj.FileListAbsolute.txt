@@ -1,0 +1,17 @@
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\bin\Debug\Prolab1.2.exe.config
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\bin\Debug\Prolab1.2.exe
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\bin\Debug\Prolab1.2.pdb
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\obj\Debug\Prolab1.2.csproj.AssemblyReference.cache
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\obj\Debug\Prolab1._2.Form1.resources
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\obj\Debug\Prolab1._2.Properties.Resources.resources
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\obj\Debug\Prolab1.2.csproj.GenerateResource.cache
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\obj\Debug\Prolab1.2.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\obj\Debug\Prolab1.2.exe
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\obj\Debug\Prolab1.2.pdb
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\obj\Debug\Prolab1._2.KartGosterForm.resources
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\bin\Debug\System.Drawing.Common.dll
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\bin\Debug\System.Drawing.Common.xml
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\obj\Debug\Prolab1.2.csproj.CopyComplete
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\obj\Debug\Prolab1._2.Form2.resources
+C:\Users\Fatih Bal\source\repos\Prolab1.2\Prolab1.2\obj\Debug\Prolab1._2.ozetForm.resources
